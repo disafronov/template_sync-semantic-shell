@@ -1,4 +1,5 @@
 .github/
 .github/workflows/
+.github/workflows/assign-pr.yml
 .github/workflows/reviewdog.yml
 .github/workflows/semantic.yaml
