@@ -1,3 +1,4 @@
 .github/
 .github/workflows/
-.github/workflows/**
+.github/workflows/reviewdog.yml
+.github/workflows/semantic.yaml
