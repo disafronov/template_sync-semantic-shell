@@ -5,3 +5,6 @@
 .github/workflows/reviewdog.yaml
 .github/workflows/semantic.yaml
 .github/workflows/force-release-pr.yaml
+.github/workflows/rebase.yml
+.github/workflows/release.yml
+.github/workflows/validate.yml
