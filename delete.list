@@ -1,3 +1,6 @@
 .github/workflows/assign-pr.yml
 .github/workflows/reviewdog.yml
 .github/workflows/force-release-pr.yml
+.github/workflows/rebase.yaml
+.github/workflows/release.yaml
+.github/workflows/validate.yaml
