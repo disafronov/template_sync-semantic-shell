@@ -1,8 +1,12 @@
+disafronov/android-tv-debloater
 disafronov/asdf-bootstrap
 disafronov/colima-system
+disafronov/docker-compose_macos-loader
 disafronov/legion-power-management
 disafronov/power-profiles-monitor
 disafronov/power-sources-monitor
 disafronov/rdiff-backup-wrapper
+disafronov/shell-tools
+disafronov/simple-sandbox
 disafronov/ssl-refresher
 disafronov/where-are-my-tools
