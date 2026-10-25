@@ -1,6 +1,6 @@
 .github/
 .github/workflows/
-.github/workflows/assign-pr.yaml
-.github/workflows/reviewdog.yaml
-.github/workflows/semantic.yaml
-.github/workflows/force-release-pr.yaml
+.github/workflows/assign-pr.yml
+.github/workflows/reviewdog.yml
+.github/workflows/semantic.yml
+.github/workflows/force-release-pr.yml
