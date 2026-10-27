@@ -8,3 +8,4 @@
 .github/workflows/rebase.yml
 .github/workflows/release.yml
 .github/workflows/validate.yml
+.github/workflows/force-release-pr.yml

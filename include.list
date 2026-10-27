@@ -3,4 +3,3 @@
 .github/workflows/assign-pr.yml
 .github/workflows/reviewdog.yml
 .github/workflows/semantic.yml
-.github/workflows/force-release-pr.yml
